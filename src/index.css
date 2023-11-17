@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-image: url('./assets/img/blur-radial.svg');
+    font-family: 'Inter';
+    background-color: var(--bg);
+  }
+
+  :root {
+    --dot_nav: #652CD1;
+    --boutton: #845EEE;
+    --text: #E5E7EB;
+    --gray: #A1A1A9;
+    --bg_form: #394150;
+    --bg: #121826;
+    --stroke: #4D5562;
+    --step_boutton: #342E62;
+  }
+
+  .activated {
+    background-color: var(--dot_nav);
+    -webkit-box-shadow: 5px 5px 50px 20px #342E62; 
+    box-shadow: 5px 5px 50px 20px #342E62;
+
+  }
+
+  .dot-active::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--dot_nav);
+    opacity: 0.4;
+    border-radius: 50%;
+    z-index: -1; 
+}
+
+
+
+}
