@@ -19,8 +19,8 @@ Il s'agit d'une solution pour le défi [Dev Challenges](https://devchallenges.io
 
 ### Capture d'écran
 
-![Desktop](/desktop.png)
-![Mobile](/mobile.png)
+![Desktop](./desktop.png)
+![Mobile](./mobile.png)
 
 ### Liens
 
@@ -29,7 +29,7 @@ Il s'agit d'une solution pour le défi [Dev Challenges](https://devchallenges.io
 
 ### Construit avec
 
-- HTML
+- Vite (Framework React)
 - TailwindCSS
 - Javascript
 
