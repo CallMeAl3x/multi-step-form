@@ -24,7 +24,7 @@ Il s'agit d'une solution pour le défi [Dev Challenges](https://devchallenges.io
 
 ### Liens
 
-- [URL du site en direct](https://callmeal3x.github.io/multi-step-form/)
+- [URL du site en direct](https://multi-step-form-b-alexandre.netlify.app)
 
 
 ### Construit avec
