@@ -24,7 +24,7 @@ Il s'agit d'une solution pour le défi [Dev Challenges](https://devchallenges.io
 
 ### Liens
 
-- [URL du site en direct](http://alexandre.bonefons.mmi-velizy.fr/Projets_HTML-CSS-JS/card_details_form/)
+- [URL du site en direct](https://callmeal3x.github.io/multi-step-form/)
 
 
 ### Construit avec
